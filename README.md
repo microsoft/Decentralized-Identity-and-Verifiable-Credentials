@@ -11,7 +11,18 @@ Decentralized Identity (DID), also know as "self-sovereign identity" (or SSI) is
 
 DIDs are cryptographically secure identifiers that are owned and controlled by a user without a third party Identity Providers (IdPs). It enables the user to prove the ownership of the identity using thier wallet (eg. a mobile device). Using the DID, the user can obtain Verifiable Credentials (VCs) from trusted organizations and, subsequently, present elements of these credentials as proof of claims without the need to authenticate with service providers using usernames and passwords.
 
-DIDs use [Decentralized Public Key Infrastructure (DPKI)](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/draft-documents/Decentralized-Public-Key-Infrastructure-CURRENT.md) technology by providing identities for people, organizations, and [Internet of things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things). DPKI returns control of identities to the entities they belong to, bringing the power of cryptography to everyday users by delegating the responsibility of public key management to secure decentralized datastores (blockchains and public databases), so anyone and anything can realize the web of trust.  
+DIDs use [Decentralized Public Key Infrastructure (DPKI)](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/draft-documents/Decentralized-Public-Key-Infrastructure-CURRENT.md) technology by providing identities for people, organizations, and [Internet of things (IoT)](https://en.wikipedia.org/wiki/Internet_of_things). DPKI returns control of identities to the entities they belong to, bringing the power of cryptography to everyday users by delegating the responsibility of public key management to secure decentralized datastores (blockchains and public databases), so anyone and anything can realize the web of trust.
+
+## Popular Use Cases
+* Education
+  * Digital transcripts
+    * Upon request of a student, an educational institution issues a digital credential that includes an extended transcript
+![image](https://user-images.githubusercontent.com/26188338/120914560-2ed60180-c65c-11eb-9afe-72e66ec17862.png)
+    
+* Retail
+* Finance
+* Healthcare
+
 
 ## Standards
 * [W3C Decentralized Identifiers](https://www.w3.org/TR/did-core/)
