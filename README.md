@@ -16,12 +16,16 @@ DIDs use [Decentralized Public Key Infrastructure (DPKI)](https://github.com/Web
 ## Popular Use Cases
 * Education
   * Digital transcripts
-    * Upon request of a student, an educational institution issues a digital credential that includes an extended transcript
-![image](https://user-images.githubusercontent.com/26188338/120914560-2ed60180-c65c-11eb-9afe-72e66ec17862.png)
-    
+  * Online class attendance and completion status   
 * Retail
+  * Address verification
+  * Fraud detection 
 * Finance
+  * Reuse KYC (Know Your Customer)
+  * Money transfer 
 * Healthcare
+  * Prescription
+  * Medical records (vaccination, traveling illness, etc.) 
 
 
 ## Standards
